@@ -1,0 +1,1 @@
+c:\users\hp envy\documents\visual studio 2013\Projects\SentanceAnalyser\SentanceAnalyser\bin\Debug\SentanceAnalyser.exe.config

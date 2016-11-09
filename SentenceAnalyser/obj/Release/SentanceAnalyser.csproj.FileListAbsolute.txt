@@ -1,0 +1,6 @@
+c:\users\hp envy\documents\visual studio 2013\Projects\SentanceAnalyser\SentanceAnalyser\bin\Release\SentanceAnalyser.exe.config
+c:\users\hp envy\documents\visual studio 2013\Projects\SentanceAnalyser\SentanceAnalyser\bin\Release\SentanceAnalyser.exe
+c:\users\hp envy\documents\visual studio 2013\Projects\SentanceAnalyser\SentanceAnalyser\bin\Release\SentanceAnalyser.pdb
+c:\users\hp envy\documents\visual studio 2013\Projects\SentanceAnalyser\SentanceAnalyser\obj\Release\SentanceAnalyser.exe
+c:\users\hp envy\documents\visual studio 2013\Projects\SentanceAnalyser\SentanceAnalyser\obj\Release\SentanceAnalyser.pdb
+c:\users\hp envy\documents\visual studio 2013\Projects\SentanceAnalyser\SentanceAnalyser\obj\Release\SentanceAnalyser.csprojResolveAssemblyReference.cache
